@@ -1,0 +1,20 @@
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\bin\Debug\Reinas.exe.config
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\bin\Debug\Reinas.exe
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\bin\Debug\Reinas.pdb
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.csprojAssemblyReference.cache
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.Form1.resources
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.Properties.Resources.resources
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.csproj.GenerateResource.cache
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.exe
+C:\Users\lluis\Desktop\8vo Semestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.pdb
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\bin\Debug\Reinas.exe.config
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\bin\Debug\Reinas.exe
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\bin\Debug\Reinas.pdb
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.csprojAssemblyReference.cache
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.Form1.resources
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.Properties.Resources.resources
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.csproj.GenerateResource.cache
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.csproj.CoreCompileInputs.cache
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.exe
+C:\Users\lluis\Documents\8voSemestre\Fundamentos de IA\Reinas\Reinas\obj\Debug\Reinas.pdb
